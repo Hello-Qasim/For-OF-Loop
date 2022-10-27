@@ -1,6 +1,6 @@
 //<===========The For-OF Loop============>
 
-// We used to looping the arrays by using "for-loop" in which we need to put some efforts of initilization, condition and increesment or counter .So The For-OF Loop makes easy for us .
+// We used to looping the arrays, by using "for-loop" in which we need to put some efforts of initilization, condition and increesment or counter .So The For-OF Loop makes easy for us .
 
 const details = {
   name: 'Thorp-Park',
